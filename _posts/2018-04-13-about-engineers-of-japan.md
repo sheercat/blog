@@ -23,6 +23,8 @@ Japanese engineers can be categorized into the following types.
 
 Why is this happening in the workplace environment in Japan?
 
+![test](/test.png)
+
 Let's enjoy it next time.
 
 
